@@ -87,7 +87,7 @@ author:
   # employer         :"IIT Gandhinagar"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=2a2vPRYAAAAJ&hl=en"
-  email            :"joel.s@iitgn.ac.in"
+  # email            :"joel.s@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,11 +110,11 @@ author:
   steam            :
   tumblr           :
   # twitter          : "https://twitter.com/JoelS90137989?t=ARwxVXiBw-nnu4xcJTaoqA&s=09"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
