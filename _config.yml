@@ -85,7 +85,7 @@ author:
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "IIT Gandhinagar"
   # employer         :"IIT Gandhinagar"
-  pubmed           : ""
+  # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=2a2vPRYAAAAJ&hl=en"
   # email            :"joel.s@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
