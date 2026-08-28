@@ -21,13 +21,6 @@ Education
 * BE (Hons.) in Electrical and Electronics Engineering, University of Kerala, 2013–2017
   * GPA: 9.4/10. University Rank 2 (among 36 colleges)
 
-Research projects
-======
-* **Time-Domain Region-of-Interest Beamforming for Spatial Audio** — Signal and Image Processing Lab, Technion. Developed a generalized sidelobe canceller (GSC) framework for time-domain region-of-interest beamforming with a microphone array, published in IEEE TASLP.
-* **Ground-Based Source Localization using Planar Antenna Array on board a LEO Satellite** — Audio Signal Processing Lab, IIT Gandhinagar, with Space Application Center, Ahmedabad. Geolocation of a ground-based emitter using a planar array on a LEO satellite under strict size/weight/power constraints.
-* **Coarray LMS: Adaptive Underdetermined DOA Estimation with Increased Degrees of Freedom** — Audio Signal Processing Lab, IIT Gandhinagar. A computationally efficient adaptive algorithm resolving more sources than sensors, using second-order statistics with the LMS principle; includes a polynomial-rooting variant.
-* **Adaptive Low-Rank DOA Estimation using Complex Kronecker Product Decomposition** — Audio Signal Processing Lab, IIT Gandhinagar. Decomposes large DOA-estimating filter weights into smaller weights via complex Kronecker product decomposition, updated with NLMS/RLS, for faster convergence at lower computation.
-
 Work experience
 ======
 * Research Intern, Indian Institute of Technology Bombay
