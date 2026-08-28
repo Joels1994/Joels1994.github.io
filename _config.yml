@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Joel S"
 title_separator          : "-"
-# name                     : &name "Joel"
-# description              : &description "Ph.D. Research Scholar"
+name                     : &name "Joel S"
+description              : &description "Postdoctoral Fellow, IIT Gandhinagar — Adaptive Signal Processing"
 url                      : "https://Joels1994.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Joels1994/Joels1994.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joel S"
   avatar           : "profile.png"
-  # bio              : "Your biography for the left-hand sidebar"
-  # location         : "IIT Gandhinagar"
-  # employer         :"IIT Gandhinagar"
+  bio              : "Postdoctoral Fellow, IIT Gandhinagar. Adaptive beamforming, DOA estimation, microphone arrays."
+  location         : "IIT Gandhinagar"
+  employer         : "IIT Gandhinagar"
   # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=2a2vPRYAAAAJ&hl=en"
-  # email            :"joel.s@iitgn.ac.in"
+  email            : "joel.s@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "Joels1994"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impacttory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  # linkedin         :"joel-s-35935859"
+  linkedin         : "joel-s-35935859"
   orcid            : "https://orcid.org/0000-0002-7632-463X"
   pinterest        :
   soundcloud       :
