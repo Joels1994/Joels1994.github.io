@@ -18,7 +18,7 @@ Education
   * Research area: Time-Domain Region-of-Interest Beamforming
 * MTech in Electrical Engineering, National Institute of Technology Hamirpur, 2018–2020
   * GPA: 9.24/10. Program Rank 1, Gold Medal
-* BE (Hons.) in Electrical and Electronics Engineering, University of Kerala, 2013–2017
+* BTech in Electrical and Electronics Engineering, University of Kerala, 2013–2017
   * GPA: 9.4/10. University Rank 2 (among 36 colleges)
 
 Work experience
