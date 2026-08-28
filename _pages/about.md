@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content p { text-align: justify; }
+</style>
 
 I am a Postdoctoral Fellow at the Indian Institute of Technology Gandhinagar, working on adaptive beamforming, direction-of-arrival (DOA) estimation, and microphone-array signal processing for speech and audio applications.
 
