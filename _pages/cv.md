@@ -34,8 +34,7 @@ Teaching assistantship
 Skills
 ======
 * Programming: MATLAB (proficient), Python, C (basic)
-* Domain: Adaptive filtering, beamforming, array signal processing, DOA estimation, acoustic/speech signal processing, Monte-Carlo simulation
-* Operating systems: Windows, Linux
+* Domain: Adaptive filtering, beamforming, array signal processing, DOA estimation, acoustic/speech signal processing
 
 Honours and awards
 ======
