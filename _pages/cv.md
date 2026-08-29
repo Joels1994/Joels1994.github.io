@@ -77,4 +77,10 @@ Teaching
   
 Service and leadership
 ======
-* Journal reviewer: IEEE/ACM Transactions on Audio, Speech and Language Processing; IEEE Signal Processing Letters; IEEE Transactions on Vehicular Technology; Elsevier Signal Processing; IEEE Sensors Journal; IEEE Transactions on Circuits and Systems II: Express Briefs
+* Journal reviewer:
+  * IEEE/ACM Transactions on Audio, Speech and Language Processing
+  * IEEE Signal Processing Letters
+  * IEEE Transactions on Vehicular Technology
+  * Elsevier Signal Processing
+  * IEEE Sensors Journal
+  * IEEE Transactions on Circuits and Systems II: Express Briefs
