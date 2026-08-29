@@ -19,7 +19,7 @@ Education
 * MTech in Electrical Engineering, National Institute of Technology Hamirpur, 2018–2020
   * GPA: 9.24/10. Program Rank 1, Gold Medal
 * BTech in Electrical and Electronics Engineering, University of Kerala, 2013–2017
-  * GPA: 9.4/10. University Rank 2 (among 36 colleges)
+  * GPA: 9.4/10. Ranked 2nd among students across the university's 36 affiliated engineering colleges
 
 Work experience
 ======
