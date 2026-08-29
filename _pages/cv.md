@@ -15,7 +15,6 @@ Education
   * GPA: 9.58/10. Guide: Prof. Nithin V. George
   * Thesis: Adaptive DOA Estimation and Region-of-Interest Beamforming using Microphone Array Systems
 * Visiting Research Fellow, Electrical Engineering, Technion – Israel Institute of Technology, Aug 2024 – Jan 2025
-  * Research area: Time-Domain Region-of-Interest Beamforming
 * MTech in Electrical Engineering, National Institute of Technology Hamirpur, 2018–2020
   * GPA: 9.24/10. Program Rank 1, Gold Medal
 * BTech in Electrical and Electronics Engineering, University of Kerala, 2013–2017
