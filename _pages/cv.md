@@ -40,8 +40,6 @@ Honours and awards
 ======
 * ANRF International Travel Support (ITS) Scheme grant, INTER-NOISE 2025, Brazil
 * IIT Gandhinagar Overseas Research Fellowship, Technion, Israel (6 months)
-* PhD Research Fellowship, Ministry of Human Resource Development, Government of India (2021–)
-* Postgraduate Research Fellowship, Ministry of Human Resource Development, Government of India (2018–2020)
 * Gold Medalist, MTech EE Department, National Institute of Technology Hamirpur
 * 2nd Rank, BTech EEE, University of Kerala
 
