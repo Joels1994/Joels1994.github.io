@@ -12,14 +12,14 @@ author_profile: true
 {% include base_path %}
 
 Journal Articles
-======
+------
 {% assign journal_pubs = site.publications | where: "type", "journal" | sort: "date" | reverse %}
 {% for post in journal_pubs %}
   {% include archive-single.html %}
 {% endfor %}
 
 Conference Papers
-======
+------
 {% assign conference_pubs = site.publications | where: "type", "conference" | sort: "date" | reverse %}
 {% for post in conference_pubs %}
   {% include archive-single.html %}
