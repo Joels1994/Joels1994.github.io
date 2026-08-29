@@ -1,6 +1,7 @@
 ---
 title: "Adaptive Closed-Form DOA Estimation in the Spherical Harmonics Domain"
 collection: publications
+type: conference
 permalink: /publication/2026-05-04-icassp-spherical-harmonics
 excerpt: 'An adaptive closed-form DOA estimation method formulated in the spherical harmonics domain, presented at ICASSP 2026.'
 date: 2026-05-04

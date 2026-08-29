@@ -1,6 +1,7 @@
 ---
 title: "A Non-Linear Local Active Noise Control with Integrated Virtual Sensing using an Adaptive Hybrid Spline Filter"
 collection: publications
+type: conference
 permalink: /publication/2024-08-01-nonlinear-anc-spline-filter
 excerpt: 'A non-linear local active noise control approach with integrated virtual sensing, using an adaptive hybrid spline filter.'
 date: 2024-08-01

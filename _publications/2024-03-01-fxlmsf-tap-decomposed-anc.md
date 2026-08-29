@@ -1,6 +1,7 @@
 ---
 title: "FxLMS/F based Tap Decomposed Adaptive Filter for Decentralized Active Noise Control System"
 collection: publications
+type: journal
 permalink: /publication/2024-03-01-fxlmsf-tap-decomposed-anc
 excerpt: 'A tap-decomposed adaptive filter based on FxLMS/F for decentralized active noise control systems.'
 date: 2024-03-01

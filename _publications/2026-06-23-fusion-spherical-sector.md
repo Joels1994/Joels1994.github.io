@@ -1,6 +1,7 @@
 ---
 title: "Closed-Form Adaptive DOA Estimation using Sensor Array over Spherical Sector"
 collection: publications
+type: conference
 permalink: /publication/2026-06-23-fusion-spherical-sector
 excerpt: 'A closed-form adaptive DOA estimation method using a sensor array over a spherical sector, presented at FUSION 2026.'
 date: 2026-06-23

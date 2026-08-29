@@ -1,6 +1,7 @@
 ---
 title: "Generalized Sidelobe Canceller for Time-Domain Region-of-Interest Beamforming"
 collection: publications
+type: journal
 permalink: /publication/2026-06-01-gsc-roi-beamforming
 excerpt: 'A generalized sidelobe canceller (GSC) framework for time-domain region-of-interest beamforming with a microphone array.'
 date: 2026-06-01

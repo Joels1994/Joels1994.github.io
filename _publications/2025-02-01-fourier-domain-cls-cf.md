@@ -1,6 +1,7 @@
 ---
 title: "A Family of Fourier Domain Complex Least Square/Fourth Algorithms for Efficient Adaptive Direction of Arrival Estimation"
 collection: publications
+type: journal
 permalink: /publication/2025-02-01-fourier-domain-cls-cf
 excerpt: 'A family of Fourier-domain complex least square/fourth algorithms for efficient adaptive DOA estimation.'
 date: 2025-02-01

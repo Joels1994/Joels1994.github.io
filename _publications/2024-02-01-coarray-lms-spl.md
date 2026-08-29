@@ -1,6 +1,7 @@
 ---
 title: "Coarray LMS: Adaptive Underdetermined DOA Estimation With Increased Degrees of Freedom"
 collection: publications
+type: journal
 permalink: /publication/2024-02-01-coarray-lms-spl
 excerpt: 'A computationally efficient adaptive algorithm resolving more sources than sensors, using second-order statistics with the LMS principle, plus a polynomial-rooting variant.'
 date: 2024-02-01

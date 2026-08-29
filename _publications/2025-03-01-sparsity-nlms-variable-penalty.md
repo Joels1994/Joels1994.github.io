@@ -1,6 +1,7 @@
 ---
 title: "Adaptive Direction of Arrival Estimation using Sparsity Constrained Complex NLMS Algorithm with Variable Penalty Factor"
 collection: publications
+type: journal
 permalink: /publication/2025-03-01-sparsity-nlms-variable-penalty
 excerpt: 'A sparsity-constrained complex NLMS algorithm with a variable penalty factor for adaptive DOA estimation.'
 date: 2025-03-01

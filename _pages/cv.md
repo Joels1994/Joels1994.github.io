@@ -44,10 +44,19 @@ Honours and awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+Journal Articles
+------
+  <ul>{% assign journal_pubs = site.publications | where: "type", "journal" | sort: "date" | reverse %}{% for post in journal_pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Conference Papers
+------
+  <ul>{% assign conference_pubs = site.publications | where: "type", "conference" | sort: "date" | reverse %}{% for post in conference_pubs %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}

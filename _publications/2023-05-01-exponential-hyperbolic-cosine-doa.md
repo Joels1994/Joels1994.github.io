@@ -1,6 +1,7 @@
 ---
 title: "Robust DOA Estimation Based on an Exponential Hyperbolic Cosine Adaptive Algorithm"
 collection: publications
+type: journal
 permalink: /publication/2023-05-01-exponential-hyperbolic-cosine-doa
 excerpt: 'A robust DOA estimation method based on an exponential hyperbolic cosine adaptive algorithm.'
 date: 2023-05-01

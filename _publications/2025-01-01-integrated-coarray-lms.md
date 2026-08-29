@@ -1,6 +1,7 @@
 ---
 title: "Integrated Approach for Efficient Adaptive Underdetermined DOA Estimation: Coarray LMS with Covariance Matrix Error Removal"
 collection: publications
+type: journal
 permalink: /publication/2025-01-01-integrated-coarray-lms
 excerpt: 'An integrated coarray LMS approach for efficient adaptive underdetermined DOA estimation, with covariance matrix error removal.'
 date: 2025-01-01
