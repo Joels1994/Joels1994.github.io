@@ -57,6 +57,12 @@ Conference Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Patents
+======
+  <ul>{% assign sorted_patents = site.patents | sort: "date" | reverse %}{% for post in sorted_patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
